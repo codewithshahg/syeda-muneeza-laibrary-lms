@@ -1,0 +1,31 @@
+[
+  { 
+  "title":"python crash course",
+    "author": "Eric Matthes",
+    "publication_year": 2019,
+    "genre":"Programming",
+    "read_status": false,
+    "added_data": "2025-03-11 11:36:40"
+ },
+  {"title":"Knowledge with python",
+    "author": "Syeda muneeza",
+    "publication_year": 2011,
+    "genre":"Programming",
+    "read_status": True,
+    "added_data": "2025-03-11 11:39:50"
+},
+  {"title":"My-python",
+    "author": "Jack-sparow",
+    "publication_year": 2022,
+    "genre":"Programming",
+    "read_status": false,
+    "added_data": "2025-03-11 11:49:30" 
+},
+  {"title":"Crazy python",
+    "author": "Kinza",
+    "publication_year": 2014,
+    "genre":"Programming",
+    "read_status": True,
+    "added_data": "2025-03-11 11:33:12"
+}
+]
