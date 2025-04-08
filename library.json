@@ -1,31 +1,34 @@
 [
-  { 
-  "title":"python crash course",
+  {
+    "title": "Python Crash Course",
     "author": "Eric Matthes",
     "publication_year": 2019,
-    "genre":"Programming",
+    "genre": "Programming",
     "read_status": false,
     "added_data": "2025-03-11 11:36:40"
- },
-  {"title":"Knowledge with python",
-    "author": "Syeda muneeza",
+  },
+  {
+    "title": "Automate the Boring Stuff with Python",
+    "author": "Fiza Sagar",
     "publication_year": 2011,
-    "genre":"Programming",
-    "read_status": True,
-    "added_data": "2025-03-11 11:39:50"
-},
-  {"title":"My-python",
-    "author": "Jack-sparow",
+    "genre": "Programming",
+    "read_status": true,
+    "added_data": "2025-03-11 11:45:30"
+  },
+  {
+    "title": "Fluent Python",
+    "author": "Ramalho",
     "publication_year": 2022,
-    "genre":"Programming",
+    "genre": "Programming",
     "read_status": false,
-    "added_data": "2025-03-11 11:49:30" 
-},
-  {"title":"Crazy python",
-    "author": "Kinza",
-    "publication_year": 2014,
-    "genre":"Programming",
-    "read_status": True,
-    "added_data": "2025-03-11 11:33:12"
-}
+    "added_data": "2025-03-11 11:55:20"
+  },
+  {    
+    "title": "Effective Python",
+    "author": "Brett Slatkin",
+    "publication_year": 2020,
+    "genre": "Programming",
+    "read_status": true,
+    "added_data": "2025-03-11 11:58:10"
+  }
 ]
